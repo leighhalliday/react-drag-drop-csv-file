@@ -1,0 +1,7 @@
+/* https://www.smashingmagazine.com/2020/02/tailwindcss-react-project/ */
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
